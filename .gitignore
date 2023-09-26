@@ -1,0 +1,12 @@
+.png
+.jpeg
+.data
+.pkl
+venv
+venv/*
+data/*
+.dat
+.pickle
+.idea/*
+
+
